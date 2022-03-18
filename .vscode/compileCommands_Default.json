@@ -1,0 +1,57 @@
+[
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\BullCowCartridge.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\BullCowCartridge.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\BullCowGame.Build.cs",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\BullCowGame.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\BullCowGame.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\BullCowGameGameModeBase.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\BullCowGameGameModeBase.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\Console\\\\Cartridge.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\Console\\\\Cartridge.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\Console\\\\Terminal.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\Console\\\\Terminal.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    }
+]
