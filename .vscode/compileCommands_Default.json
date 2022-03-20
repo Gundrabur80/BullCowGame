@@ -53,5 +53,10 @@
         "file": "C:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\Console\\\\Terminal.h",
         "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
         "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\marti\\\\OneDrive\\\\Documents\\\\Dev\\\\Unreal\\\\BullCowGame\\\\Source\\\\BullCowGame\\\\HiddenWordList.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\marti\\OneDrive\\Documents\\Dev\\Unreal\\BullCowGame\\.vscode\\compileCommands_Default\\BullCowGame.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
     }
 ]

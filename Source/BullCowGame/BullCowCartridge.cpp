@@ -1,5 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 #include "BullCowCartridge.h"
+#include "HiddenWordList.h"
 
 void UBullCowCartridge::BeginPlay() // When the game starts
 {
@@ -35,8 +36,6 @@ void UBullCowCartridge::SetupGame()
     PrintLine(TEXT("Guess the %i letter word!"), HiddenWord.Len());
     PrintLine(TEXT("You have %i lives."), Lives);
     PrintLine(TEXT("Type in your guess. \nPress enter to continue..."));
-
-    IsIsogram(HiddenWord);
 }
 
 void UBullCowCartridge::EndGame()
@@ -90,14 +89,14 @@ bool UBullCowCartridge::IsIsogram(FString Word) const
 {
     for (int32 Index = 0; Index < Word.Len(); Index++)
     {
-        PrintLine(TEXT("%c"), Word[Index]);
+        for (int32 Comparison = Index + 1; Comparison < Word.Len(); Comparison++)
+        {
+            if (Word[Index] == Word[Comparison])
+            {
+                return false;
+            }
+        }
     }
-    
-    // For each letter
-    // Start at element [0]
-    // Compare against the next letter.
-    // Until we reach [Word.Len()-1].
-    // if any are the same return false
 
     return true;
 }
